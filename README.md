@@ -1,2 +1,2 @@
 # Text-Editor
-A text editor ran through a PWA
+A text editor ran as a PWA
